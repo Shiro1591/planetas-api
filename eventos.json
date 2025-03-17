@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "Eclipse Solar Total",
+        "fecha": "08-04-2024",
+        "descripcion": "Un eclipse solar total será visible en América del Norte, cruzando México, EE.UU. y Canadá.",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/97/Solar_eclipse_2024_path.jpg"
+    },
+    {
+        "nombre": "Lluvia de Meteoros Líridas",
+        "fecha": "22-04-2024",
+        "descripcion": "Las Líridas alcanzarán su pico con hasta 20 meteoros por hora, visibles en el hemisferio norte.",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Meteorshower.jpg"
+    },
+    {
+        "nombre": "Luna Azul",
+        "fecha": "31-08-2024",
+        "descripcion": "Este fenómeno ocurre cuando hay dos lunas llenas en un mismo mes, siendo la segunda la 'Luna Azul'.",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Blue_Moon_2010.jpg"
+    },
+    {
+        "nombre": "Oposición de Marte",
+        "fecha": "16-01-2025",
+        "descripcion": "Marte estará en su punto más cercano a la Tierra, lo que lo hará brillar intensamente en el cielo nocturno.",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Opposition_of_Mars.png"
+    },
+    {
+        "nombre": "Eclipse Lunar Penumbral",
+        "fecha": "14-03-2025",
+        "descripcion": "Un eclipse penumbral de la Luna será visible en América, Europa y partes de África y Asia.",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Lunar_eclipse_april_4_2015_penumbral_labeled.gif"
+    },
+    {
+        "nombre": "Gran Conjunción de Júpiter y Saturno",
+        "fecha": "10-09-2025",
+        "descripcion": "Júpiter y Saturno estarán extremadamente cerca en el cielo nocturno, un evento que ocurre cada 20 años.",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/32/Great_Conjunction_2020.jpg"
+    }
+]
