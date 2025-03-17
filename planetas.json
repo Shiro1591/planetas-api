@@ -1,66 +1,74 @@
 [
-  {
-    "nombre": "Mercurio",
-    "masa": "3.3011 × 10^23 kg",
-    "radio": 2439.7,
-    "gravedad": 3.7,
-    "temperatura": 167,
-    "descripcion": "Mercurio es el planeta más cercano al Sol y el más pequeño del Sistema Solar."
-  },
-  {
-    "nombre": "Venus",
-    "masa": "4.8675 × 10^24 kg",
-    "radio": 6051.8,
-    "gravedad": 8.87,
-    "temperatura": 464,
-    "descripcion": "Venus es el planeta más caliente del Sistema Solar, con una atmósfera densa de dióxido de carbono."
-  },
-  {
-    "nombre": "Tierra",
-    "masa": "5.97237 × 10^24 kg",
-    "radio": 6371,
-    "gravedad": 9.81,
-    "temperatura": 15,
-    "descripcion": "La Tierra es el único planeta conocido que alberga vida y tiene grandes océanos de agua líquida."
-  },
-  {
-    "nombre": "Marte",
-    "masa": "6.4171 × 10^23 kg",
-    "radio": 3389.5,
-    "gravedad": 3.711,
-    "temperatura": -65,
-    "descripcion": "Marte, el planeta rojo, es el principal candidato para la exploración y colonización humana en el futuro."
-  },
-  {
-    "nombre": "Júpiter",
-    "masa": "1.8982 × 10^27 kg",
-    "radio": 69911,
-    "gravedad": 24.79,
-    "temperatura": -108,
-    "descripcion": "Júpiter es el planeta más grande del Sistema Solar y tiene una gran tormenta llamada la Gran Mancha Roja."
-  },
-  {
-    "nombre": "Saturno",
-    "masa": "5.6834 × 10^26 kg",
-    "radio": 58232,
-    "gravedad": 10.44,
-    "temperatura": -139,
-    "descripcion": "Saturno es famoso por sus impresionantes anillos formados principalmente de hielo y roca."
-  },
-  {
-    "nombre": "Urano",
-    "masa": "8.6810 × 10^25 kg",
-    "radio": 25362,
-    "gravedad": 8.87,
-    "temperatura": -195,
-    "descripcion": "Urano gira de lado y tiene una atmósfera rica en metano, lo que le da un color azul verdoso."
-  },
-  {
-    "nombre": "Neptuno",
-    "masa": "1.02413 × 10^26 kg",
-    "radio": 24622,
-    "gravedad": 11.15,
-    "temperatura": -200,
-    "descripcion": "Neptuno es el planeta más alejado del Sol y tiene vientos extremadamente fuertes en su atmósfera."
-  }
+    {
+        "nombre": "Mercurio",
+        "masa": "3.3011 × 10^23 kg",
+        "radio": 2439.7,
+        "gravedad": 3.7,
+        "temperatura": 167,
+        "descripcion": "Mercurio es el planeta más cercano al Sol y el más pequeño del Sistema Solar.",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg"
+    },
+    {
+        "nombre": "Venus",
+        "masa": "4.8675 × 10^24 kg",
+        "radio": 6051.8,
+        "gravedad": 8.87,
+        "temperatura": 464,
+        "descripcion": "Venus es el planeta más caliente del Sistema Solar, con una atmósfera densa de dióxido de carbono.",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Venus-real_color.jpg"
+    },
+    {
+        "nombre": "Tierra",
+        "masa": "5.97237 × 10^24 kg",
+        "radio": 6371,
+        "gravedad": 9.81,
+        "temperatura": 15,
+        "descripcion": "La Tierra es el único planeta conocido que alberga vida y tiene grandes océanos de agua líquida.",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg"
+    },
+    {
+        "nombre": "Marte",
+        "masa": "6.4171 × 10^23 kg",
+        "radio": 3389.5,
+        "gravedad": 3.711,
+        "temperatura": -65,
+        "descripcion": "Marte, el planeta rojo, es el principal candidato para la exploración y colonización humana en el futuro.",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_true_color.jpg"
+    },
+    {
+        "nombre": "Júpiter",
+        "masa": "1.8982 × 10^27 kg",
+        "radio": 69911,
+        "gravedad": 24.79,
+        "temperatura": -108,
+        "descripcion": "Júpiter es el planeta más grande del Sistema Solar y tiene una gran tormenta llamada la Gran Mancha Roja.",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Jupiter.jpg"
+    },
+    {
+        "nombre": "Saturno",
+        "masa": "5.6834 × 10^26 kg",
+        "radio": 58232,
+        "gravedad": 10.44,
+        "temperatura": -139,
+        "descripcion": "Saturno es famoso por sus impresionantes anillos formados principalmente de hielo y roca.",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Saturn_during_Equinox.jpg"
+    },
+    {
+        "nombre": "Urano",
+        "masa": "8.6810 × 10^25 kg",
+        "radio": 25362,
+        "gravedad": 8.87,
+        "temperatura": -195,
+        "descripcion": "Urano gira de lado y tiene una atmósfera rica en metano, lo que le da un color azul verdoso.",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Uranus2.jpg"
+    },
+    {
+        "nombre": "Neptuno",
+        "masa": "1.02413 × 10^26 kg",
+        "radio": 24622,
+        "gravedad": 11.15,
+        "temperatura": -200,
+        "descripcion": "Neptuno es el planeta más alejado del Sol y tiene vientos extremadamente fuertes en su atmósfera.",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/56/Neptune_Full.jpg"
+    }
 ]
